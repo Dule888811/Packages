@@ -1,0 +1,16 @@
+{
+    "name": "dule/login",
+    "description": "This will show user's dataa.\u001b[\u001b[\u001b[\u001b[C\u001b.",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Dule\\Login\\": "src/"
+
+        }
+    }
+}
